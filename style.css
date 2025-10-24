@@ -2,27 +2,25 @@
     display:flex;
     justify-content: center;
     gap: 20px;
-    margin-top: 50px;
 }
 .container2{
     display :flex;
     justify-content: center;
     gap: 20px;
-    margin-top: 50px;
 }
 .card {
-    width: 16rem;
+    width: 15rem;
     height: 270px;
     box-shadow: 0 4px 8px 0 rgba(239, 20, 247, 0.2);
     border-radius: 15px;
     overflow: hidden;
 }
 .card:hover {
-    background-color: violet
+    background-color: rgb(221, 30, 221)
 }
 .card img {
     width: 100%;
-    height: 170px;
+    height: 90px;
     display: block;
 }
 
